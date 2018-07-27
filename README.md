@@ -4,4 +4,4 @@
 
 <!---<a href="url"><img src="https://github.com/irudik/external-impacts-rps/blob/master/readme_figure.png" align="left" height="500" width="500" ></a>
 <br/><br/>--->
-This repository contains all files and datasets necessary to replicate figures and tables. 
+Go to <doi:10.5061/dryad.68721fm> for replication code, raw data, and pre-processed data.
